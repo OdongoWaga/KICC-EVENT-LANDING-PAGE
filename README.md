@@ -1,5 +1,5 @@
-#KICC CENTRE
+# KICC EVENT LANDING PAGE
 
-###Event Landing Page built with React.
+### KICC Landing Page built with React.
 
 [View Here](https://ecstatic-shockley-d617b1.netlify.com)
